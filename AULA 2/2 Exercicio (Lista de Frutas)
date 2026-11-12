@@ -1,0 +1,5 @@
+var = 'maça'
+vari = 'melancia'
+varia = 'banana'
+
+print(' lista de frutas: ',  var, ',', vari, 'e', varia )
