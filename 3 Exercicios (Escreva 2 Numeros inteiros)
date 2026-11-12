@@ -1,0 +1,4 @@
+numero1 = int(input('escreva um numero inteiro: '))
+numero2 = int(input('escreva mais um numero inteiro: '))
+
+print(numero1, numero2)
