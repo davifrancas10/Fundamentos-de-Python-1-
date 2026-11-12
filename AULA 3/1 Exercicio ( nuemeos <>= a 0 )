@@ -1,0 +1,10 @@
+numero_do_usuario = int(input('escreva seu numero: '))
+
+if numero_do_usuario == 0:
+    print('o seu numero igual a zero')
+
+if numero_do_usuario >0:
+    print('o seu numero é maior que zero')
+    
+if numero_do_usuario <0:
+    print('o seu numero é menor que zero')
