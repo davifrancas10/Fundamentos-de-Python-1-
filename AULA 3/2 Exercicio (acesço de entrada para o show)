@@ -1,0 +1,10 @@
+idade = int(input('qual a sua idade: '))
+
+if idade == 18:
+    prit('você poderar entrar no show')
+
+if idade > 18:
+    print(' você poderar entrar no show')
+    
+if idade < 18:
+    print('você nao poderar entrar no show')
