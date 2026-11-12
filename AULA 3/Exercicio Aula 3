@@ -1,0 +1,14 @@
+Exercício 1: Verificação de Número Positivo
+Escreva um programa em Python que solicite ao usuário um número inteiro e verifique 
+se o número é positivo, negativo ou zero. 
+
+Em seguida, exiba uma mensagem apropriada de acordo 
+com o resultado da verificação.
+
+Exercício 2: Classificação de Triângulos
+Escreva um programa em Python que receba três comprimentos de 
+lados de um triângulo e determine se o triângulo é equilátero, 
+isósceles ou escaleno.
+
+Exercício 3: Verifique se o usuário é maior de idade e pode entrar no show, escreva 
+um programa que peça a usuário a idade e decida se ele pode entrar no show
